@@ -29,12 +29,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ikohu-66/ikohu-66/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/halfrost/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ikohu-66/count.svg?"  />
 </div>
 
 ###

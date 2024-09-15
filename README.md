@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ikohu-66/ikohu-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm hucc</h1>
-<h3 align="center">A passionate developer from China</h3>
-
+<h3 align="center">A GO developer from China</h3>
+s
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikohu-66&label=Profile%20views&color=0e75b6&style=flat" alt="ikohu-66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikohu-66" alt="ikohu-66" /></a> </p>
